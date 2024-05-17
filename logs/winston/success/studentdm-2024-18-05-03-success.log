@@ -1,0 +1,18 @@
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  label: 'Student DM Backend',
+  timestamp: '2024-05-17T21:35:50.396Z'
+}
+{
+  message: 'Example app listening on port 5000',
+  level: 'info',
+  label: 'Student DM Backend',
+  timestamp: '2024-05-17T21:35:50.404Z'
+}
+Sat May 18 2024 3:36:46  [Student DM Backend] info: Database connected successfully
+Sat May 18 2024 3:36:46  [Student DM Backend] info: Example app listening on port 5000
+Sat May 18 2024 3:36:53  [Student DM Backend] info: Database connected successfully
+Sat May 18 2024 3:36:53  [Student DM Backend] info: Example app listening on port 5000
+Sat May 18 2024 3:37:5  [Student DM Backend] info: Database connected successfully
+Sat May 18 2024 3:37:5  [Student DM Backend] info: Example app listening on port 5000
